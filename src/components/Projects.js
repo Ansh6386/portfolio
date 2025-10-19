@@ -48,14 +48,14 @@ const Projects = () => {
             period: "Dec 2024 – Jan 2025",
             icon: CreditCard,
             color: "from-blue-500 to-blue-600",
-            description: "Collaborated as Frontend Developer on a Paytm clone project. Created responsive and secure UIs using React Native and Tailwind CSS; ensured seamless cross-device usability.",
+            description: "Collaborated as Frontend Developer on a Paytm clone project. Created responsive and secure UIs using React js and Tailwind CSS; ensured seamless cross-device usability.",
             techStack: ["HTML", "Tailwind CSS", "React Native", "Node.js", "Express.js", "MongoDB"],
             githubLink: "https://github.com/Ansh6386",
             features: [
                 "Responsive UI Design",
                 "Secure Payment Interface",
                 "Cross-device Compatibility",
-                "Modern React Native Architecture"
+                "Modern React js Architecture"
             ]
         },
         {
@@ -65,7 +65,7 @@ const Projects = () => {
             icon: FileText,
             color: "from-green-500 to-green-600",
             description: "Developed a modern blog application leveraging Appwrite for authentication and database management. Used Tailwind CSS for a responsive UI; allowed users to create, edit, delete, and view posts in real time.",
-            techStack: ["HTML", "Tailwind CSS", "React Native", "Appwrite"],
+            techStack: ["HTML", "Tailwind CSS", "React js", "Appwrite"],
             githubLink: "https://github.com/Ansh6386",
             features: [
                 "Real-time CRUD Operations",
@@ -81,7 +81,7 @@ const Projects = () => {
             icon: MessageSquare,
             color: "from-purple-500 to-purple-600",
             description: "Built a group chat app with Firebase Authentication (login/signup), Firestore (messaging), and Realtime Database (online status). Enabled chat history sync and user blocking features.",
-            techStack: ["HTML", "CSS", "React Native", "Firebase"],
+            techStack: ["HTML", "CSS", "React js", "Firebase"],
             githubLink: "https://github.com/Ansh6386",
             features: [
                 "Real-time Messaging",

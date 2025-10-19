@@ -101,7 +101,7 @@ const About = () => {
                                 <div className="flex items-start gap-4">
                                     <div className="w-2 h-2 rounded-full bg-primary-500 mt-2 flex-shrink-0"></div>
                                     <p className="text-gray-600">
-                                        Build mobile applications with React Native for cross-platform compatibility
+                                        Build mobile applications with React js for cross-platform compatibility
                                     </p>
                                 </div>
                                 <div className="flex items-start gap-4">

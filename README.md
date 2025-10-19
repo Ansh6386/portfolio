@@ -1,6 +1,6 @@
 # Ansh Shukla - Portfolio Website
 
-A modern, interactive, and responsive portfolio website built with React Native, Tailwind CSS, and HTML. This portfolio showcases my skills, projects, education, and achievements in an eye-catching and professional manner.
+A modern, interactive, and responsive portfolio website built with React js, Tailwind CSS, and HTML. This portfolio showcases my skills, projects, education, and achievements in an eye-catching and professional manner.
 
 ## 🚀 Features
 
